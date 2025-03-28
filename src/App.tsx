@@ -35,8 +35,7 @@ function App() {
           transition={{ duration: 0.8 }}
           className="container mx-auto px-4 py-16 flex flex-col items-center text-center z-10"
         >
-          <img
-            src="https://images.unsplash.com/photo-1633332755192-727a05c4013d?w=400&h=400"
+          <img src="Arnab Goswami"
             alt="Arnab Goswami"
             className="w-40 h-40 rounded-full mb-8 object-cover border-4 border-blue-500 shadow-lg shadow-blue-500/20"
           />
